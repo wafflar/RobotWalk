@@ -2,8 +2,8 @@
 /**
  * クラス RobotFunction の注釈をここに書きます.
  * 
- * @author (あなたの名前)
- * @version (バージョン番号もしくは日付)
+ * author 키타야마요시아키_2017190038, 마츠바라케이토_2018315057
+ * @version ()
  */
 public class RobotFunction
 {
