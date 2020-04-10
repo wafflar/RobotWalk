@@ -5,10 +5,10 @@
  * 
  * 키타야마요시아키_2017190038, 마츠바라케이토_2018315057
  */
-public class RobotWalk
+public class RobotTest
 {
     public static void main(String[] args){
-        RobotFunction r1 = new RobotFunction();
+        Robot r1 = new Robot();
         int speed = 30; //로봇 속도
         String signal = "빨간색"; //교통신호 색
         r1.RobotWalk(speed, signal);
